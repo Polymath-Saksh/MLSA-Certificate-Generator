@@ -51,13 +51,13 @@ certificate_file = "Templates/Certificate Template.docx"
 participants_file = "Templates/Event Participants.csv"
 
 # Enter your name here [Ambassador Name]
-host_Name = "Your Name"
+host_Name = "Saksham Kumar"
 
 #Enter event name
-event_Name = "Your Event Name"
+event_Name = "Intro to Git, GitHub & Version Control"
 
 #Enter event date
-event_date = "Your Event Date"
+event_date = "13th March 2024"
 
 # get participants
 list_participants = get_participants(participants_file)
